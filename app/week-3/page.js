@@ -13,12 +13,6 @@ export default function Page() {
         breed: "Dalmatian",
         color: "White with black spots",
     };
-    const dog3 = {
-        name: "Rex",
-        age: 10,
-        breed: "German Shepherd",
-        color: "Black and tan",
-    };
 
     return (
         <main>
@@ -34,12 +28,6 @@ export default function Page() {
                 age={dog2.age}
                 breed={dog2.breed}
                 color={dog2.color}
-            />
-            <Dog
-                name={dog3.name}
-                age={dog3.age}
-                breed={dog3.breed}
-                color={dog3.color}
             />
         </main>
     );
