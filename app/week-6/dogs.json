@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Buddy",
+        "description": "Buddy is a 3 year old Golden Retriever. He loves to play fetch and go on long walks.",
+        "imageUrl": "/dog1.png"
+    },
+    {
+        "id": 2,
+        "name": "Molly",
+        "description": "Molly is a 2 year old Beagle. She loves to chase squirrels and nap in the sun.",
+        "imageUrl": "/dog2.png"
+    },
+    {
+        "id": 3,
+        "name": "Max",
+        "description": "Max is a 5 year old German Shepherd. He loves to play frisbee and go swimming.",
+        "imageUrl": "/dog3.png"
+    }
+
+]
